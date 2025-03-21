@@ -10,8 +10,8 @@ let StudentName = prompt("Enter your Studentname");
 
 //Log the collected information in the console
 console.log("User Information");
-console.log("Subject Title:, SubjectTitle");
-console.log("Class Schedule:, ClassSchedule");
-console.log("Classroom:, Classroom");
-console.log("Class Instructor:, ClassInstructor");
-console.log("Student Name:, StudentName");
+console.log("Subject Title:", SubjectTitle);
+console.log("Class Schedule:", ClassSchedule);
+console.log("Classroom:", Classroom);
+console.log("Class Instructor:", ClassInstructor);
+console.log("Student Name:", StudentName);
