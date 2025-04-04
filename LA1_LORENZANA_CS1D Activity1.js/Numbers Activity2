@@ -1,0 +1,11 @@
+//numbers activity
+
+let firstFavNum = 1;
+let secondFavNum = 8;
+
+console.log("Addition:", firstFavNum + secondFavNum);
+console.log("Subtration:", firstfavNum secondFavNum);
+console.log("Multiplication:", FirstFavNum secondFavNum);
+console.log("Division:", firstFavNum / secondFavNum);
+console.log("Modulus:", firstFavNum % secondFavNum);
+console.log("Exponentiation:", firstFavNum ** secondFavNum);
