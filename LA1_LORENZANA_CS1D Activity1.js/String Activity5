@@ -1,0 +1,19 @@
+//strings
+
+let favActorFirstName = "Rowan Sebastian";
+let favActorfirstName = "Atkinson";
+
+let fullname = favActorFirstName + " " + favactorFirstNAme;
+
+let uppercase = fullname.toUpperCase();
+
+let message = "My favorite actor is " + uppercase;
+
+message += " his best show is Silicon Valley.";
+
+console.log("Favorite Actor's First Name:", favActorFirstname);
+console.log("Favorite Actor's Last Name:", favActorLastname);
+console.log("Full Name);
+console.log("uppercase Full Name:", uppercase);
+console.log("Message:", message);
+
