@@ -1,0 +1,14 @@
+//comparison or Relational operator
+
+Let firstFavNumb = 10;
+Let secondFavhumb = 5;
+
+console.log("Greater than:", firstravNumb > secondFavNumb);
+console.log("Less than:", firstFavNumb secondFavNumb);
+console.log("Greater than or equal:", firstFavNumb >= secondFavNumb);
+console.log("Less than or equal:", firstFavNumb <= secondFavNumb);
+console.log("Strict equality:", firstFavNumb === secondFavNumb);
+console.log("Loose equality:", firstfavNumb == secondfavhumb);
+console.log("Strict inequality:", firstFavNumb !== secondFavNumb);
+console.log("Loose inequality:", FirstFavNumb != secondfavNumb)
+
