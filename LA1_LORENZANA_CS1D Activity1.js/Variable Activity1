@@ -1,0 +1,11 @@
+//variables activity
+ 
+ let Iname = "Gilbert Lorenzana";
+ let whatDoYouWannaBecomeInYourLife = "programmer";
+ let gender = "Male";
+ let twitterHandle = "@YourTwitterHandle";
+ 
+ console.log("Name:", name);
+ console.log("Future Goal:", whatDoYouWannaBecomeInYourlife);
+ console.log("Gender:", gender);
+ console.log("Twitter Handle:", twitterhandle);
