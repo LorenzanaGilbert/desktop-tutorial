@@ -1,0 +1,11 @@
+//Boolean Activity
+
+let isJsProgramming Language = true;
+let isJsHard = false;
+
+let favnumb = 8;
+favNumb = undefined;
+
+console.log("Is Javascript a programming language?:", isJsProg rogrammingLanguage);
+consol.log("Is JavaScript hard?:", isJshard);
+console.log("Favourite Number:", favnumb);
